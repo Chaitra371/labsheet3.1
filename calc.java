@@ -5,6 +5,7 @@ public class Calculator {
 
 		public static void main(String[] args) {
 			int add=10;
+			int ad=10;
 			int b=20;
 			char op = '+';
 			if( op == '+') {
